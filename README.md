@@ -1,12 +1,12 @@
 ### @honzawashere
 
-**about me**
+## about me
 `well, i am just a 16-year-old guy from czechia. i really love to code new ideas i come up with, i am also very obsessed with music and video games.`
 
-**my socials**
+## my socials
 `just check https://bohnice.wtf/`
 
-**coding knowledge**
+## coding knowledge
 `my main languages are: js, py, java and cs
 others: cpp, kotlin (a little bit only)`
 
