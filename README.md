@@ -8,7 +8,7 @@ i am also very obsessed with music and video games.
 
 ## my socials
 ```
-just check https://bohnice.wtf/
+just check my website bohnice.wtf
 ```
 
 ## coding knowledge
