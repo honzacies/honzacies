@@ -2,7 +2,8 @@
 
 ## about me
 ```
-well, i am just a 16-year-old guy from czechia. i really love to code new ideas i come up with, i am also very obsessed with music and video games.
+well, i am just a 16-year-old guy from czechia. i really love to code new ideas i come up with,
+i am also very obsessed with music and video games.
 ```
 
 ## my socials
