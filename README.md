@@ -7,7 +7,7 @@ ui/ux engineer x backend dev
 
 <h3 align="left">what i do</h3>
 most of time i am doing one of these things:
-
+<br/>
 - creating websites/web apps using Next.js that can be used for any purposes (even dashboards and other pretty interesting stuff)
 - creating pretty complex Rust, TypeScript or Python backends with database integration or integration with other platforms
 - creating random Python apps for fun or ML
@@ -17,7 +17,7 @@ most of time i am doing one of these things:
 
 <h3 align="left">what i use</h3>
 to get my stuff done i use these tools:
-
+<br/>
 - Webstorm
 - Git
 - Termius
