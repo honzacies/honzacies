@@ -32,7 +32,8 @@
 
 ### 𝙬𝙝𝙤 𝙖𝙢 𝙞
 just a 17y/o guy enjoying making random projects since 2020, web apps and other stuff like that. using typescript or javascript, always trying to achieve some better result and learn something new.
-ui/ux engineer x backend dev
+
+ui/ux engineer x backend dev. need a dev? message me on discord or instagram.
 
 ### 𝙬𝙝𝙖𝙩 𝙞 𝙙𝙤
 most of time i am doing one of these things:
