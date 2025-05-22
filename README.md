@@ -1,6 +1,35 @@
 <h2 align="left">hi! my name is honza and I'm a developer from Czech Republic.</h2>
-
 ###
+
+<h3 align="left">who am i</h3>
+just a 17y/o guy enjoying making random projects since 2020, web apps and other stuff like that. using typescript or javascript, always trying to achieve some better result and learn something new.
+ui/ux engineer x backend dev
+
+<h3 align="left">what i do</h3>
+most of time i am doing one of these things:
+
+- creating websites/web apps using Next.js that can be used for any purposes (even dashboards and other pretty interesting stuff)
+- creating pretty complex Rust, TypeScript or Python backends with database integration or integration with other platforms
+- creating random Python apps for fun or ML
+- using Electron to make apps
+- creating random Discord bots xddd
+- building some random Arduino stuff
+
+<h3 align="left">what i use</h3>
+to get my stuff done i use these tools:
+
+- Webstorm
+- Git
+- Termius
+- RustRover
+- Visual Studio Code Insiders
+- WinSCP
+- HeidiSQL
+- Arduino IDE
+- Insomnia
+- Mongo DB Compass
+
+using ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=honzawashere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -9,6 +38,7 @@
 </div>
 
 ###
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,7 +58,7 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/honzawashere/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/honzawashere/count.svg?"/>
 </div>
 
 ###
