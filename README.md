@@ -1,10 +1,10 @@
 <h2 align="left">hi! my name is honza and I'm a developer from Czech Republic.</h2>
 
-### who am i
+### 𝙬𝙝𝙤 𝙖𝙢 𝙞
 just a 17y/o guy enjoying making random projects since 2020, web apps and other stuff like that. using typescript or javascript, always trying to achieve some better result and learn something new.
 ui/ux engineer x backend dev
 
-### what i do
+### 𝙬𝙝𝙖𝙩 𝙞 𝙙𝙤
 most of time i am doing one of these things:
 
 - creating websites/web apps using Next.js that can be used for any purposes (even dashboards and other pretty interesting stuff)
@@ -14,19 +14,11 @@ most of time i am doing one of these things:
 - creating random Discord bots xddd
 - building some random Arduino stuff
 
-### what i use
+### 𝙬𝙝𝙖𝙩 𝙞 𝙪𝙨𝙚
 to get my stuff done i use these tools:
 
-- Webstorm
-- Git
-- Termius
-- RustRover
-- Visual Studio Code Insiders
-- WinSCP
-- HeidiSQL
-- Arduino IDE
-- Insomnia
-- Mongo DB Compass
+- Webstorm/Visual Studio Code Insiders
+- Windows 10
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=honzawashere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
