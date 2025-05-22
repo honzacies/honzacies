@@ -1,5 +1,4 @@
 <h2 align="left">hi! my name is honza and I'm a developer from Czech Republic.</h2>
-###
 
 <h3 align="left">who am i</h3>
 just a 17y/o guy enjoying making random projects since 2020, web apps and other stuff like that. using typescript or javascript, always trying to achieve some better result and learn something new.
